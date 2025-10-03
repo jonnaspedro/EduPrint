@@ -38,9 +38,9 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 ## 📂 O que você encontrará neste repositório  
 
-- 🧩 **Diagrama de Classes UML** → [docs/UML.png](./docs/UML.png)  
-- 🛠️ **Implementação em Java** → [src/](./src/)  
-- 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)
+- 🧩 **Diagrama de Classes UML** → [docs/UML.pdf](./docs/UML.pdf)  
+- 🛠️ **Implementação em Java** 
+- 🖨️ **Execução de Cadastros**
 
 ## 🖼️ Diagramas e Execução  
 
