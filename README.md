@@ -1,40 +1,62 @@
 # 📘 Projeto EduPrint  
 
-O **EduPrint** é um sistema desenvolvido em **Java** com o objetivo de gerenciar e imprimir informações relacionadas a **disciplinas e matérias** escolares.  
+Este repositório contém o código-fonte de um sistema acadêmico desenvolvido em **Java** para o gerenciamento e impressão de informações relacionadas a **disciplinas e matérias escolares**.  
 
-O projeto foi elaborado como parte da disciplina de Programação e segue os princípios da **Programação Orientada a Objetos (POO)**, contemplando herança, polimorfismo, associações, agregação e composição.  
+O projeto foi elaborado como parte da disciplina de **Programação**, no curso Técnico Integrado em Desenvolvimento de Sistemas.  
 
-## 👥 Equipe de Desenvolvimento  
+
+## 📑 Sumário  
+
+- [🏛️ Sobre o Sistema](#️-sobre-o-sistema)  
+- [🚀 Principais Funcionalidades](#-principais-funcionalidades)  
+- [📂 O que você encontrará neste repositório](#-o-que-você-encontrará-neste-repositório)  
+- [🖼️ Diagramas e Execução](#️-diagramas-e-execução)  
+- [👥 Integrantes](#-integrantes)  
+
+
+## 🏛️ Sobre o Sistema  
+
+O **EduPrint** foi idealizado para simular um **sistema acadêmico simples** que organiza informações sobre **disciplinas, professores e cadastros relacionados**.  
+
+O projeto foi desenvolvido seguindo os princípios da **Programação Orientada a Objetos (POO)**, contemplando:  
+
+- **Herança** – com uso de classes abstratas e concretas, justificando o modelo adotado.  
+- **Polimorfismo** – através da sobrescrita de métodos.  
+- **Associação Simples** – vínculo direto entre classes.  
+- **Classe Associativa** – gerenciamento de relacionamentos específicos.  
+- **Agregação** – objetos relacionados, mas com ciclo de vida independente.  
+- **Composição** – objetos que dependem fortemente de outros para existir.  
+
+
+## 🚀 Principais Funcionalidades  
+
+- ✅ Cadastro de disciplinas e professores responsáveis  
+- ✅ Impressão/listagem das informações cadastradas  
+- ✅ Demonstração prática dos conceitos de **POO** em contexto educacional  
+- ✅ Estrutura modular que permite fácil manutenção e expansão futura  
+
+
+## 📂 O que você encontrará neste repositório  
+
+- 🧩 **Diagrama de Classes UML** → [docs/UML.png](./docs/UML.png)  
+- 🛠️ **Implementação em Java** → [src/](./src/)  
+- 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)  
+- 📚 **Documentação Complementar** → [docs/](./docs/)  
+
+
+## 🖼️ Diagramas e Execução  
+
+Na pasta `docs/` estão os arquivos complementares ao projeto **EduPrint**, incluindo:  
+
+- 📊 **Diagrama UML de Classes**  
+- 📑 **Documentação explicativa**  
+- 🖨️ **Execução de cadastros em PDF**  
+
+
+## 👥 Integrantes  
+
 - **Jonnas Pedro**  
 - **Cauan Rocha**  
 - **Vitor Farias**  
 
 **Turma:** 2º Ano B  
-
-## 📖 Descrição do Sistema  
-
-O **EduPrint** foi idealizado para simular um sistema acadêmico simples.  
-As principais funcionalidades incluem:  
-- Cadastro de disciplinas e professores responsáveis.  
-- Impressão/listagem das informações cadastradas.  
-- Demonstração prática dos conceitos de **POO** em um contexto educacional.  
-
-O sistema foi estruturado de forma modular, permitindo fácil manutenção e expansão futura.  
-
-## 📐 Requisitos Atendidos  
-
-O projeto contempla os seguintes conceitos:  
-
-- **Herança** – utilização de classes abstratas e concretas, com justificativa da modelagem.  
-- **Polimorfismo** – aplicação de sobrescrita de métodos.  
-- **Associação Simples** – vínculo direto entre classes.  
-- **Classe Associativa** – gerenciamento de relacionamentos específicos.  
-- **Agregação** – objetos relacionados, mas com ciclo de vida independente.  
-- **Composição** – objetos fortemente dependentes de outros para existência.  
-
-## 📦 Entregáveis  
-
-- 📊 **Diagrama de Classes UML** → [docs/UML.png](./docs/UML.png)  
-- 💻 **Código-Fonte em Java** → [src/](./src/)  
-- 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)  
-- 📑 **Documentação Complementar** → [docs/](./docs/)  
