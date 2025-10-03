@@ -40,17 +40,15 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 - 🧩 **Diagrama de Classes UML** → [docs/UML.png](./docs/UML.png)  
 - 🛠️ **Implementação em Java** → [src/](./src/)  
-- 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)  
-- 📚 **Documentação Complementar** → [docs/](./docs/)  
-
+- 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)
+- 
 
 ## 🖼️ Diagramas e Execução  
 
 Na pasta `docs/` estão os arquivos complementares ao projeto **EduPrint**, incluindo:  
 
-- 📊 **Diagrama UML de Classes**  
-- 📑 **Documentação explicativa**  
-- 🖨️ **Execução de cadastros em PDF**  
+- 📊 **Diagrama UML de Classes**
+- 🖨️ **Execução de cadastros**  
 
 
 ## 👥 Integrantes  
