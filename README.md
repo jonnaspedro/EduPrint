@@ -46,9 +46,7 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 Na pasta `docs/` estão os arquivos complementares ao projeto **EduPrint**, incluindo:  
 
-- 📊 **Diagrama UML de Classes**
-- 🖨️ **Execução de cadastros**  
-
+- 📊 **Diagrama UML de Classes** 
 
 ## 👥 Integrantes  
 
