@@ -10,7 +10,7 @@ O projeto foi elaborado como parte da disciplina de **Programação**, no curso 
 - [🏛️ Sobre o Sistema](#️-sobre-o-sistema)  
 - [🚀 Principais Funcionalidades](#-principais-funcionalidades)  
 - [📂 O que você encontrará neste repositório](#-o-que-você-encontrará-neste-repositório)  
-- [🖼️ Diagramas e Execução](#️-diagramas-e-execução)  
+- [🖼️ Diagramas](#️-diagramas)  
 - [👥 Integrantes](#-integrantes)  
 
 
@@ -38,15 +38,15 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 ## 📂 O que você encontrará neste repositório  
 
-- 🧩 **Diagrama de Classes UML** → [docs/UML.pdf](./docs/UML.pdf)  
+- 🧩 **Diagrama de Classes UML** 
 - 🛠️ **Implementação em Java** 
 - 🖨️ **Execução de Cadastros**
 
 ## 🖼️ Diagramas e Execução  
 
-Na pasta `docs/` estão os arquivos complementares ao projeto **EduPrint**, incluindo:  
+Na pasta docs/ você encontrará o arquivo complementar do projeto EduPrint, que inclui:
 
-- 📊 **Diagrama UML de Classes** 
+📊 Diagrama UML de Classes → docs/UML.pdf
 
 ## 👥 Integrantes  
 
