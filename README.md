@@ -41,7 +41,6 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 - 🧩 **Diagrama de Classes UML** → [docs/UML.png](./docs/UML.png)  
 - 🛠️ **Implementação em Java** → [src/](./src/)  
 - 🖨️ **Execução de Cadastros** → [docs/Execucao.pdf](./docs/Execucao.pdf)
-- 
 
 ## 🖼️ Diagramas e Execução  
 
