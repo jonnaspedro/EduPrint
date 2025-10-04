@@ -44,7 +44,7 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 ## 🖼️ Diagrama e Execução
 
-Na pasta docs/ você encontrará o arquivo complementar do projeto EduPrint, que inclui:
+Na área de arquivos você encontrará os arquivos complementares do projeto EduPrint, que inclui:
 
 - 📊 Diagrama UML de Classes
 - ▶️ Execução do sistema
