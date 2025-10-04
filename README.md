@@ -46,8 +46,8 @@ O projeto foi desenvolvido seguindo os princípios da **Programação Orientada 
 
 Na pasta docs/ você encontrará o arquivo complementar do projeto EduPrint, que inclui:
 
-- 📊 Diagrama UML de Classes → docs/UML.pdf
-- ▶️ Execução do sistema → realizada no arquivo EduPrint.java
+- 📊 Diagrama UML de Classes
+- ▶️ Execução do sistema
 
 ## 👥 Integrantes  
 
